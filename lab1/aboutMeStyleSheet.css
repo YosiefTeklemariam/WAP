@@ -1,0 +1,31 @@
+
+body {
+    background-color: dimgrey;
+    font-family: Calibri;
+}
+
+.statement {
+    color: white;
+}
+
+.deptmum {
+    color: yellow;
+    font-weight: bold;
+}
+
+#notmany {
+    font-style: italic;
+}
+
+.list {
+    font-size: medium;
+}
+
+.imdb {
+    color: lightcoral;
+}
+
+.mum {
+    color: lightblue;
+    font-weight: bold;
+}

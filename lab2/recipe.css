@@ -1,0 +1,57 @@
+/*The follwoing CSS statement will style the whole body of the page*/
+body {
+    background-color: #ffffff;
+    background-image: url("images/silverware.jpg");
+    background-attachment: fixed;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, Garamound, serif;
+}
+
+/*The following CSS statement will format the elements h1 and h2*/
+h1, h2 {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: 'Lucida Sans Unicode', Helvetica, Aria, sans-serif;
+    font-size: 18pt;
+    text-decoration-line: underline;
+    letter-spacing: 0.25em;
+    width: fit-content;
+}
+
+/*This CSS will format and style the h1 element and will overwrite some of the styles that are already set above*/
+h1 {
+    font-size: 22pt;
+    font-weight: bold;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*The following CSS will  for give color elements with the class name links*/
+.links {
+    color: #A4A400;
+}
+
+/*Will cancel the cake by making line over the word*/
+#cake {
+    text-decoration-line: line-through;
+}
+
+/*Will format the comments and also will give each a background color of yellow*/
+.comments {
+    background-color: #FFFFA8;
+    font-style: italic;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/*Will bold the lists with the class name directionTitle*/
+.directionTitle {
+    font-weight: bold;
+}
+
+/*Will put a bullet image for the unordered lists instead of being normal */
+ul {
+    list-style-image: url('images/pie_bullet.png');
+}
