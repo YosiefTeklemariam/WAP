@@ -26,26 +26,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab-W1D3b-CSS-Layout-MovieReview/movie.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="95" column="14" lean-forward="true" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,8 +45,8 @@
         <option value="$PROJECT_DIR$/lab W1D3b CSS Layout MovieReview/movie.css" />
         <option value="$PROJECT_DIR$/lab W1D3b CSS Layout MovieReview/tmnt.html" />
         <option value="$PROJECT_DIR$/css-index.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lab-W1D3b-CSS-Layout-MovieReview/movie.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -87,27 +68,6 @@
             <path>
               <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="lab-W1D3b-CSS-Layout-MovieReview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="lab-W1D3b-CSS-Layout-MovieReview" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,16 +115,15 @@
       <workItem from="1564068264312" duration="82000" />
       <workItem from="1564068705345" duration="699000" />
       <workItem from="1564070829685" duration="12715000" />
-      <workItem from="1564094689266" duration="1306000" />
+      <workItem from="1564094689266" duration="1568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20786000" />
+    <option name="totallyTimeSpent" value="21048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21395037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -238,17 +197,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab-W1D3b-CSS-Layout-MovieReview/movie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="95" column="14" lean-forward="true" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="66" lean-forward="true" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
         </state>
       </provider>
     </entry>
