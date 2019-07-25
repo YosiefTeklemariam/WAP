@@ -1,0 +1,44 @@
+body {
+    background-image: url("images/mainBackground.png");
+}
+
+.myPage {
+    font-family: Calibri;
+    background-image: url("images/div-background.jpg");
+    border-radius: 10px;
+    width: 350px;
+    height: 680px;
+    padding-left: 120px;
+    padding-top: 20px;
+    margin: auto;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.ulist a:hover {
+    color: red;
+}
+
+/*.ulist li {
+    border-radius: 10px;
+    list-style: none;
+    border: 2px solid black;
+    background-color: #999999;
+    padding: 5px;
+    margin: 10px;
+}*/
+
+/*.ulist a {
+    text-decoration: none;
+}*/
+
+/*.ulist li:link {
+    display: block;
+}*/
+
+/*
+.ulist {
+   text-align: center;
+}*/
