@@ -4,6 +4,8 @@
     <list default="true" id="53510358-99b1-4577-829c-dd809eefd53d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-W1D4-TaskList-HTML-Page/styles/tasks.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab-W1D4b-TaskList-HTML-Page/styles/tasks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-W1D4-TaskList-HTML-Page/taskList.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab-W1D4b-TaskList-HTML-Page/taskList.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="98" lean-forward="true" selection-start-line="20" selection-start-column="98" selection-end-line="20" selection-end-column="98" />
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -89,12 +91,7 @@
             <path>
               <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="lab-W1D3b-CSS-Layout-MovieReview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="lab-W1D4-TaskList-HTML-Page" type="462c0819:PsiDirectoryNode" />
+              <item name="lab-W1D4a-Responsive-Layout" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,15 +146,16 @@
       <workItem from="1564068705345" duration="699000" />
       <workItem from="1564070829685" duration="12715000" />
       <workItem from="1564094689266" duration="1568000" />
-      <workItem from="1564096847712" duration="6281000" />
+      <workItem from="1564096847712" duration="8228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27329000" />
+    <option name="totallyTimeSpent" value="29276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19584171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -233,14 +231,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab-W1D4-TaskList-HTML-Page/styles/tasks.css">
+    <entry file="file://$PROJECT_DIR$/lab-W1D4b-TaskList-HTML-Page/styles/tasks.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab-W1D4-TaskList-HTML-Page/taskList.html">
+    <entry file="file://$PROJECT_DIR$/lab-W1D4b-TaskList-HTML-Page/taskList.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
@@ -249,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="98" lean-forward="true" selection-start-line="20" selection-start-column="98" selection-end-line="20" selection-end-column="98" />
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
