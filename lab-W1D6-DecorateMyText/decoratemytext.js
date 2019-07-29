@@ -1,10 +1,12 @@
 function hello(){
     alert("Hello, World!");
 }
+
 function interval(){
     var id = setInterval(enlargeText,1000);
     setTimeout(clearInterval,5000,id);
 }
+
 function enlargeText(){
     // document.getElementById("textarea").style.fontSize="24pt";
     var prop = window.getComputedStyle(document.getElementById("textarea")).fontSize;
@@ -23,9 +25,9 @@ function boldText(){
         document.getElementById("textarea").style.color="";
         document.getElementById("textarea").style.textDecoration="";
         document.body.style.backgroundImage = "";
-
     }
 }
+
 function pig(){
     var words = document.getElementById("textarea").value;
     var splittedword = words.split(/\s+/);
@@ -47,8 +49,8 @@ function pig(){
 
     }
     document.getElementById("textarea").value = result;
-
 }
+
 function markov(){
     var words=document.getElementById("textarea").value;
     var arr = words.split(/\s+/);
