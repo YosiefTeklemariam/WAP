@@ -64,9 +64,7 @@ function sum(arr) {
     return sum;
 }
 
-console.log("Expected output of sum of elements in array [1,2,3,4] is 10 " + myFunctionTest(10, function () {
-    return sum([1, 2, 3, 4]);
-}));
+console.log("Expected output of sum of elements in array [1,2,3,4] is 10 " + myFunctionTest(10, sum([1,2,3,4])));
 
 function multiply(arr) {
     const f = arr.reduce(function (prevVal, elem, i, array) {
