@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53510358-99b1-4577-829c-dd809eefd53d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-W1D6-DecorateMyText/decoratemytext.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab-W1D6-DecorateMyText/decoratemytext.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +33,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="22" column="104" lean-forward="true" selection-start-line="22" selection-start-column="104" selection-end-line="22" selection-end-column="104" />
+            <state relative-caret-position="254">
+              <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" column="274" selection-start-line="12" selection-start-column="274" selection-end-line="12" selection-end-column="274" />
             </state>
           </provider>
         </entry>
@@ -65,18 +78,21 @@
         <option value="$PROJECT_DIR$/lab-W1D3b-CSS-Layout-MovieReview/movie.css" />
         <option value="$PROJECT_DIR$/css-index.css" />
         <option value="$PROJECT_DIR$/lab-W1D5-Basic-JavaScript/basicjavascript.js" />
-        <option value="$PROJECT_DIR$/lab-W1D6-DecorateMyText/decoratemytext.html" />
         <option value="$PROJECT_DIR$/lab-W1D6-DecorateMyText/decoratemytext.js" />
         <option value="$PROJECT_DIR$/lab-W1D6-ArrayMethods-map-reduce-filter/reimplement-using-map-reduce-filter.js" />
         <option value="$PROJECT_DIR$/lab-W1D6-ArrayMethods-map-reduce-filter/reimplement-page.html" />
         <option value="$PROJECT_DIR$/lab-W1D4a-Responsive-Layout/css-responsiveLayout.css" />
+        <option value="$PROJECT_DIR$/lab-W1D6-DecorateMyText/decoratemytext.html" />
+        <option value="$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.js" />
+        <option value="$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
-    <option name="width" value="1925" />
+    <option name="width" value="1990" />
     <option name="height" value="2060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -95,7 +111,7 @@
             <path>
               <item name="LabSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LabSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="lab-W1D4a-Responsive-Layout" type="462c0819:PsiDirectoryNode" />
+              <item name="lab-W2D1-ASCII-Animatioon" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -110,13 +126,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/WORK SPACE/WAP_CS472" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yosie\Documents\MUM FEB 2019\CS472_WAP\LabSolutions\lab-W2D1-ASCII-Animatioon" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\yosie\Documents\MUM FEB 2019\CS472_WAP\LabSolutions\lab-W1D4-TaskList-HTML-Page\styles" />
     </key>
@@ -150,18 +169,18 @@
       <workItem from="1564068705345" duration="699000" />
       <workItem from="1564070829685" duration="12715000" />
       <workItem from="1564094689266" duration="1568000" />
-      <workItem from="1564096847712" duration="29457000" />
+      <workItem from="1564096847712" duration="34424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50505000" />
+    <option name="totallyTimeSpent" value="55472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20321931" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21462107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,13 +303,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab-W1D6-DecorateMyText/decoratemytext.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab-W1D6-ArrayMethods-map-reduce-filter/reimplemented-using-map-reduce-filter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -312,10 +324,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab-W1D6-DecorateMyText/decoratemytext.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/images/w3c-css.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/animations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="22" column="104" lean-forward="true" selection-start-line="22" selection-start-column="104" selection-end-line="22" selection-end-column="104" />
+        <state relative-caret-position="254">
+          <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="274" selection-start-line="12" selection-start-column="274" selection-end-line="12" selection-end-column="274" />
         </state>
       </provider>
     </entry>
