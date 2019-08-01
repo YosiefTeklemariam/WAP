@@ -26,8 +26,7 @@
     clear: both;
 }
 @media screen and (max-width: 700px) {
-
-    .column1,.column2{
+    .column1, .column2{
         width:50%;
     }
     .column3{
@@ -35,9 +34,10 @@
     }
 }
 /*html and css validation icons on a bottom right fixed position and is opaque */
-#validation{
+#validation {
     position: fixed;
     bottom: 10px;
     right: 10px;
     opacity: 0.5;
     text-align: right;
+}
