@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImprovedCalculator/ImprovedCalculator.iml" filepath="$PROJECT_DIR$/ImprovedCalculator/ImprovedCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LabSolutions.iml" filepath="$PROJECT_DIR$/.idea/LabSolutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCalculator/SimpleCalculator.iml" filepath="$PROJECT_DIR$/SimpleCalculator/SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloservlet/helloservlet.iml" filepath="$PROJECT_DIR$/helloservlet/helloservlet.iml" />
     </modules>
   </component>
 </project>
