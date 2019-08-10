@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/helloservlet/pom.xml" />
         <option value="$PROJECT_DIR$/SimpleCalculator/pom.xml" />
         <option value="$PROJECT_DIR$/ImprovedCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/JSPIntroDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/QuizServlet/pom.xml" />
       </list>
     </option>
   </component>
