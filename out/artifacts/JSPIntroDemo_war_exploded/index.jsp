@@ -12,6 +12,6 @@
     <title>Test</title>
 </head>
 <body>
-    <a href='jspintro'>JSPIntroDemo</a>
+    <a href='jspintro'>JSP Introduction Demo</a>
 </body>
 </html>

@@ -12,6 +12,14 @@
   </head>
   <body>
     <a href=hello>Start the simplest servlet app</a>
-    $END$
+    <%@ page import="java.util.Date"%> <br/>
+    <%-- this comment from jsp --%>
+    <%//comment%>
+    <%/*comment*/%>
+    <%int x = 5;%>
+    <!-- this is a comment from html-->
+    <%System.out.println ("Evaluating date now"); Date date = new Date();%>
+        Hello! The time is now
+        <%= date %>
   </body>
 </html>

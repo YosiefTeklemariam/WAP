@@ -4,6 +4,7 @@
     <artifacts-to-build>
       <artifact name="ImprovedCalculator:war exploded" />
       <artifact name="JSPIntroDemo:war exploded" />
+      <artifact name="JSPQuizLab:war exploded" />
       <artifact name="QuizServlet:war exploded" />
       <artifact name="SimpleCalculator:war exploded" />
       <artifact name="helloservlet:war exploded" />
@@ -11,26 +12,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53510358-99b1-4577-829c-dd809eefd53d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JSPIntroDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/QuizServlet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSPIntroDemo/JSPIntroDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuizServlet/QuizServlet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LabSolutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LabSolutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JSPQuizLab_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSPQuizLab/JSPQuizLab.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloservlet/helloservlet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/helloservlet/helloservlet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImprovedCalculator/ImprovedCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ImprovedCalculatorLab/ImprovedCalculatorLab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImprovedCalculator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ImprovedCalculatorLab/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImprovedCalculator/src/main/java/edu/mum/cs472/ImprovedServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/ImprovedCalculatorLab/src/main/java/edu/mum/cs472/ImprovedServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImprovedCalculator/target/classes/edu/mum/cs472/ImprovedServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImprovedCalculator/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ImprovedCalculatorLab/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImprovedCalculator/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ImprovedCalculatorLab/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPIntroDemo/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/JSPIntroDemo/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/QuizServlet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/QuizServletLab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/NumberQuizServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/src/main/java/edu/mum/cs472/NumberQuizServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/src/main/java/edu/mum/cs472/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/src/main/java/edu/mum/cs472/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/src/main/java/edu/mum/cs472/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/target/classes/edu/mum/cs472/NumberQuizServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/target/classes/edu/mum/cs472/NumberQuizServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/target/classes/edu/mum/cs472/Question.class" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/target/classes/edu/mum/cs472/Question.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/target/classes/edu/mum/cs472/Quiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/target/classes/edu/mum/cs472/Quiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/target/classes/edu/mum/cs472/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/target/classes/edu/mum/cs472/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/target/test-classes/TestQuiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizServlet/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/QuizServletLab/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator/SimpleCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCalculatorLab/SimpleCalculatorLab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCalculatorLab/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator/src/main/java/edu/mum/cs472/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCalculatorLab/src/main/java/edu/mum/cs472/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator/target/classes/edu/mum/cs472/SimpleCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCalculatorLab/target/classes/edu/mum/cs472/SimpleCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCalculatorLab/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCalculatorLab/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloservlet/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/helloservlet/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPIntroDemo_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JSPIntroDemo_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/helloservlet_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/helloservlet_war_exploded/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/helloservlet/target/" />
     <ignored path="$PROJECT_DIR$/SimpleCalculator/target/" />
     <ignored path="$PROJECT_DIR$/ImprovedCalculator/target/" />
     <ignored path="$PROJECT_DIR$/JSPIntroDemo/target/" />
     <ignored path="$PROJECT_DIR$/QuizServlet/target/" />
+    <ignored path="$PROJECT_DIR$/JSPQuizLab/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +78,38 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSPQuizLab/src/main/java/edu/mum/cs472/servlet/QuizServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSPQuizLab/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSPQuizLab/web/quiz.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,14 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lab-W1D4-TaskList-HTML-Page/taskList.html" />
-        <option value="$PROJECT_DIR$/lab-W1D4a-Responsive-Layout/responsiveLayout.html" />
-        <option value="$PROJECT_DIR$/lab-W1D3b-CSS-Layout-MovieReview/movie.css" />
-        <option value="$PROJECT_DIR$/lab-W1D5-Basic-JavaScript/basicjavascript.js" />
-        <option value="$PROJECT_DIR$/lab-W1D6-DecorateMyText/decoratemytext.js" />
-        <option value="$PROJECT_DIR$/lab-W1D6-ArrayMethods-map-reduce-filter/reimplement-using-map-reduce-filter.js" />
-        <option value="$PROJECT_DIR$/lab-W1D6-ArrayMethods-map-reduce-filter/reimplement-page.html" />
-        <option value="$PROJECT_DIR$/lab-W1D4a-Responsive-Layout/css-responsiveLayout.css" />
         <option value="$PROJECT_DIR$/lab-W1D6-DecorateMyText/decoratemytext.html" />
         <option value="$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.js" />
         <option value="$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.css" />
@@ -112,19 +158,27 @@
         <option value="$PROJECT_DIR$/JSPIntroDemo/web/WEB-INF/Hello.jsp" />
         <option value="$PROJECT_DIR$/JSPIntroDemo/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/JSPIntroDemo/web/Hello.jsp" />
-        <option value="$PROJECT_DIR$/JSPIntroDemo/web/index.jsp" />
         <option value="$PROJECT_DIR$/JSPIntroDemo/src/main/java/edu/mum/cs472/JSPIntroServlet.java" />
         <option value="$PROJECT_DIR$/JSPIntroDemo/web/PostMessage.jsp" />
         <option value="$PROJECT_DIR$/QuizServlet/pom.xml" />
         <option value="$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/Question.java" />
         <option value="$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/TestRunner.java" />
         <option value="$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/Quiz.java" />
-        <option value="$PROJECT_DIR$/helloservlet/web/index.jsp" />
         <option value="$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/NumberQuizServlet.java" />
         <option value="$PROJECT_DIR$/QuizServlet/web/index.jsp" />
         <option value="$PROJECT_DIR$/QuizServlet/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/QuizServlet/src/test/java/TestRunner.java" />
         <option value="$PROJECT_DIR$/QuizServlet/src/test/java/TestQuiz.java" />
+        <option value="$PROJECT_DIR$/JSPIntroDemo/web/index.jsp" />
+        <option value="$PROJECT_DIR$/helloservlet/web/index.jsp" />
+        <option value="$PROJECT_DIR$/JSPQuizLab/pom.xml" />
+        <option value="$PROJECT_DIR$/JSPQuizLab/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/JSPQuizLab/web/WEB-INF/css/style.css" />
+        <option value="$PROJECT_DIR$/JSPQuizLab/web/quiz.jsp" />
+        <option value="$PROJECT_DIR$/JSPQuizLab/web/finishQuiz.jsp" />
+        <option value="$PROJECT_DIR$/JSPQuizLab/src/main/java/edu/mum/cs472/model/Quiz.java" />
+        <option value="$PROJECT_DIR$/JSPQuizLab/src/main/java/edu/mum/cs472/servlet/QuizServlet.java" />
+        <option value="$PROJECT_DIR$/JSPQuizLab/web/index.jsp" />
       </list>
     </option>
   </component>
@@ -206,10 +260,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestQuiz.testGetNumberQuestions">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.43">
     <configuration name="TestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.mum.cs472.TestRunner" />
-      <module name="QuizServlet" />
+      <module name="QuizServletLab" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.mum.cs472.*" />
@@ -221,7 +275,7 @@
       </method>
     </configuration>
     <configuration name="TestQuiz.testGetNumberQuestions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QuizServlet" />
+      <module name="QuizServletLab" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestQuiz" />
       <option name="METHOD_NAME" value="testGetNumberQuestions" />
@@ -256,6 +310,11 @@
         <artifact name="QuizServlet:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/QuizServlet_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="JSPQuizLab:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSPQuizLab_war_exploded" />
           </settings>
         </artifact>
       </deployment>
@@ -323,6 +382,7 @@
           <artifact name="ImprovedCalculator:war exploded" />
           <artifact name="JSPIntroDemo:war exploded" />
           <artifact name="QuizServlet:war exploded" />
+          <artifact name="JSPQuizLab:war exploded" />
         </option>
       </method>
     </configuration>
@@ -421,8 +481,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestRunner" />
-      <item itemvalue="Tomcat Server.Tomcat 8.5.43" />
       <item itemvalue="JUnit.TestQuiz.testGetNumberQuestions" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.43" />
     </list>
     <recent_temporary>
       <list>
@@ -452,7 +512,7 @@
       <workItem from="1564971234939" duration="2525000" />
       <workItem from="1565031602808" duration="13190000" />
       <workItem from="1565194491073" duration="2834000" />
-      <workItem from="1565204805589" duration="36311000" />
+      <workItem from="1565204805589" duration="45359000" />
     </task>
     <servers />
   </component>
@@ -460,12 +520,19 @@
     <history-entry file="TestQuiz_testGetNumberQuestions - 2019.08.09 at 18h 59m 11s.xml">
       <configuration name="TestQuiz.testGetNumberQuestions" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestQuiz_testGetNumberQuestions - 2019.08.09 at 21h 08m 42s.xml">
+      <configuration name="TestQuiz.testGetNumberQuestions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestQuiz_testGetNumberQuestions - 2019.08.09 at 21h 08m 55s.xml">
+      <configuration name="TestQuiz.testGetNumberQuestions" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120924000" />
+    <option name="totallyTimeSpent" value="129972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7696737" visible="true" weight="0.23407109" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -539,62 +606,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab-W1D3b-CSS-Layout-MovieReview/tmnt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab-W2D1-ASCII-Animatioon/ascii.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/recipe.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/pie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="59" column="58" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab-W2D2-JS-Practice/Alist.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab-W1D4a-Responsive-Layout/float.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab-W1D4a-Responsive-Layout/float.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -696,14 +707,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImprovedCalculator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleCalculator/src/main/java/edu/mum/cs472/SimpleCalculator.java">
+    <entry file="file://$PROJECT_DIR$/SimpleCalculatorLab/src/main/java/edu/mum/cs472/SimpleCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
@@ -720,28 +724,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleCalculator/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/SimpleCalculatorLab/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="16" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImprovedCalculator/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/ImprovedCalculatorLab/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleCalculator/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/SimpleCalculatorLab/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="12" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImprovedCalculator/src/main/java/edu/mum/cs472/ImprovedServlet.java">
+    <entry file="file://$PROJECT_DIR$/ImprovedCalculatorLab/src/main/java/edu/mum/cs472/ImprovedServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
@@ -751,20 +755,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImprovedCalculator/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/ImprovedCalculatorLab/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloservlet/src/main/java/cs472/mum/HelloServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="2" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,45 +776,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSPIntroDemo/src/main/java/edu/mum/cs472/JSPIntroServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSPIntroDemo/web/PostMessage.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSPIntroDemo/web/Hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleCalculator/pom.xml">
+    <entry file="file://$PROJECT_DIR$/SimpleCalculatorLab/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
           <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QuizServlet/pom.xml">
+    <entry file="file://$PROJECT_DIR$/QuizServletLab/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/Question.java">
+    <entry file="file://$PROJECT_DIR$/QuizServletLab/src/main/java/edu/mum/cs472/Question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
@@ -833,7 +803,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/Quiz.java">
+    <entry file="file://$PROJECT_DIR$/QuizServletLab/src/main/java/edu/mum/cs472/Quiz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
@@ -849,13 +819,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloservlet/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSPIntroDemo/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -863,7 +826,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QuizServlet/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/QuizServletLab/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
@@ -887,34 +850,158 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QuizServlet/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/QuizServletLab/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSPIntroDemo/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/TestRunner.java">
+    <entry file="file://$PROJECT_DIR$/QuizServletLab/src/main/java/edu/mum/cs472/TestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QuizServlet/src/main/java/edu/mum/cs472/NumberQuizServlet.java">
+    <entry file="file://$PROJECT_DIR$/QuizServletLab/src/main/java/edu/mum/cs472/NumberQuizServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPIntroDemo/web/PostMessage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPIntroDemo/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPIntroDemo/web/Hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPIntroDemo/src/main/java/edu/mum/cs472/JSPIntroServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloservlet/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloservlet/src/main/java/cs472/mum/HelloServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImprovedCalculatorLab/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="15" column="18" selection-start-line="10" selection-start-column="4" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPQuizLab/web/WEB-INF/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPQuizLab/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPQuizLab/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPQuizLab/web/finishQuiz.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPQuizLab/src/main/java/edu/mum/cs472/model/Quiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPQuizLab/src/main/java/edu/mum/cs472/servlet/QuizServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPQuizLab/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSPQuizLab/web/quiz.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
         </state>
       </provider>
     </entry>
