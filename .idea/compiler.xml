@@ -7,14 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SimpleCalculatorLab" />
+        <module name="guestlistAjax" />
+        <module name="JSPQuizLab" />
         <module name="JSPIntroDemo" />
         <module name="helloservlet" />
         <module name="QuizServletLab" />
-        <module name="JSPQuizLab" />
         <module name="ImprovedCalculatorLab" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="guestlistAjax" target="1.8" />
       <module name="helloservlet" target="1.8" />
       <module name="ImprovedCalculatorLab" target="1.8" />
       <module name="JSPIntroDemo" target="1.8" />
