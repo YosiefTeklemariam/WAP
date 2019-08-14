@@ -1,14 +1,14 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="guestlistAjax:war">
-    <output-path>$USER_HOME$/Desktop/guestListAjax/target</output-path>
+  <artifact type="war" name="guestListAjax:war">
+    <output-path>$PROJECT_DIR$/guestListAjax/target</output-path>
     <properties id="maven-jee-properties">
       <options>
-        <module>guestlistAjax</module>
+        <module>guestListAjax</module>
         <packaging>war</packaging>
       </options>
     </properties>
     <root id="archive" name="guestlistAjax-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="guestlistAjax:war exploded" />
+      <element id="artifact" artifact-name="guestListAjax:war exploded" />
     </root>
   </artifact>
 </component>

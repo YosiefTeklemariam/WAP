@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gson-2.8.2">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/guestListAjax/guestListAjax/target/guestlistAjax-1.0-SNAPSHOT/WEB-INF/lib/gson-2.8.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guestlistAjax/guestListAjax/target/guestlistAjax-1.0-SNAPSHOT/WEB-INF/lib/gson-2.8.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -6,7 +6,7 @@ function updateGuests() {
     var first = $("#first").val();
     var last = $("#last").val();
     
-    $.ajax("guests.ajax", {
+    $.ajax("guest.ajax", {
 		"type": "post",
 		"data": {
         	"first": first,
@@ -15,13 +15,18 @@ function updateGuests() {
     }).done(displayGuests);
 }
 
-function displayGuests(data) {
-   let guestList="<ol>";
-   for(let temp of data){
-       guestList+="<li>"+temp.first+" "+temp.last+"</li>";
-   }
+/*function displayGuests(data) {
+    var guestList = "You need to modify this method to display the updated guest list.  Remember to build the entire list before adding it to the DOM.";
+    $("#guestList").html(guestList);
+}*/
 
-   $("#guestList").html(guestList+"</ol>");
-    $("#first").val("");
-    $("#last").val("");
+function displayGuests(data) {
+    let guestList="<ol>";
+    for(let temp of data){
+        guestList+="<li>"+temp.first+" "+temp.last+"</li>";
+    }
+
+    $("#guestList").html(guestList+"</ol>");
+    $("#first").val(""); // this is to reset the value in the form
+    $("#last").val(""); // this is to reset the value in the form
 }
